@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@300&display=swap');
+
+.root{
+    -fx-background-color: linear-gradient(rgb(142, 209, 235), rgb(117, 228, 132));
+    -fx-font-size: 16px;
+    -fx-font-family: 'Baloo 2', cursive;
+}
+
+#headingLabel{
+    -fx-font-size: 30px;
+}
+.button{
+    -fx-background-radius: 18px;
+    -fx-cursor: hand;
+}
+.button:hover{
+    -fx-background-color: linear-gradient(rgb(142, 209, 235), rgb(117, 228, 132));
+}
